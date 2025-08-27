@@ -1,0 +1,11 @@
+emp_id,first_name,last_name,department,salary,joining_date,age,city
+101,John,Smith,IT,75000.5,2018-01-10,29,New York
+102,Sarah,Johnson,HR,62000.0,2019-03-15,35,Chicago
+103,Michael,Williams,Finance,80000.0,2017-07-01,41,Boston
+104,Emily,Davis,IT,67000.5,2020-09-23,27,San Diego
+105,David,Brown,Marketing,72000.0,2021-06-17,30,Seattle
+106,Linda,Miller,HR,59000.0,2016-11-30,38,New York
+107,James,Wilson,Finance,85000.0,2015-04-19,45,Chicago
+108,Patricia,Moore,Marketing,71000.5,2022-02-28,28,Boston
+109,Robert,Taylor,IT,69000.0,2018-08-05,33,San Diego
+110,Jennifer,Anderson,Finance,88000.0,2014-12-12,50,Seattle
