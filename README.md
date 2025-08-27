@@ -1,16 +1,20 @@
 # PySpark Exercises
+A collection of hands-on exercises and examples for learning PySpark on Databricks. This repository covers everything from Spark basics to advanced transformations, SQL queries, DataFrames, and machine learning workflows. Designed to run directly in Databricks notebooks, the exercises provide a practical, cloud-ready way to master distributed data processing with Spark.
 
-Practice problems for learning Apache Spark with Python (PySpark).
+Key highlights:
 
-## What you'll need
-- Python 3.9+ (if running locally)
-- PySpark (see `requirements.txt`)
-- Sample data in `data/`
+Getting started with SparkSession in Databricks
 
-## How this repo is organized
-pyspark-exercises/
-├─ exercises/ # prompts & starter code/notebooks
-├─ solutions/ # worked solutions
-├─ data/ # sample CSV/JSON/parquet files
-├─ requirements.txt # pinned dependencies
-└─ README.md
+Working with DataFrames, RDDs, and SQL
+
+Data ingestion from CSV, JSON, and Parquet
+
+Transformations and aggregations with PySpark
+
+Using Databricks utilities (dbutils) for data access
+
+Hands-on ETL and data engineering pipelines
+
+Intro to Spark MLlib for machine learning
+
+Whether you’re a beginner practicing PySpark basics or a data professional building production pipelines, this repo helps you learn PySpark the way it’s used in real-world Databricks environments.
